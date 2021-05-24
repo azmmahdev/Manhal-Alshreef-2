@@ -26,6 +26,7 @@ background: linear-gradient(to right, #00dbde, #fc00ff); /* W3C, IE 10+/ Edge, F
 }
 .cardImage img{
   width: 200px;
+  height:200px;
   border: 3px solid #76FF03;
   border-radius: 50%;
 }
